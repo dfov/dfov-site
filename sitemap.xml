@@ -1,25 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>https://dfov.ru/</loc>
-        <lastmod>2021-02-01</lastmod>
-    </url>
-    <url>
-        <loc>https://dfov.ru/download/</loc>
-    </url>
-    <url>
-        <loc>https://dfov.ru/faq/</loc>
-    </url>
-    <url>
-        <loc>https://dfov.ru/pricing/</loc>
-    </url>
-    <url>
-        <loc>https://dfov.ru/roadmap/</loc>
-    </url>
-    <url>
-        <loc>https://dfov.ru/security/</loc>
-    </url>
-    <url>
-        <loc>https://dfov.ru/support/</loc>
-    </url>
+    
+        <url>
+            <loc>https://dfov.ru/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://dfov.ru/download/</loc>
+	    <lastmod>2021-05-11</lastmod>            
+        </url>
+    
+        <url>
+            <loc>https://dfov.ru/faq/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://dfov.ru/pricing/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://dfov.ru/roadmap/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://dfov.ru/security/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://dfov.ru/support/</loc>
+            
+        </url>
+    
 </urlset>
